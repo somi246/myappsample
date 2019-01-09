@@ -1,2 +1,2 @@
-# my awesome project
+Laravel training
 
