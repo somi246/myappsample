@@ -1,2 +1,2 @@
-Laravel training
+php training completed
 
